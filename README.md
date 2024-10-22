@@ -1,2 +1,3 @@
 # PicoGateDriver
- 
+raspberry pi picoのPIOを使ってゲート信号を出すプログラムです。
+2MHzぐらいまでのデットタイム入りの信号なら出せたはず
